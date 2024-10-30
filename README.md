@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+<h1 align="center">Hi 👋, I'm Adithya kakarla</h1>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dheeraj-2000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
