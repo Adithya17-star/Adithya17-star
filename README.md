@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya kakarla</h1>
 <h3 align="center">A Passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif]">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 - 📫 How to reach me **adithya1768@gmail.com**
 
