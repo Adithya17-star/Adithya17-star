@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adithya17-star&label=Profile%20views&color=0e75b6&style=flat" alt="adithya17-star"]/> </p>
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)username=adithya17-star&label=Profile%20views&color=0e75b6&style=flat" alt="adithya17-star"]/> </p>
 
 - 📫 How to reach me **adithya1768@gmail.com**
 
