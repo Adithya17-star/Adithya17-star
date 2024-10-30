@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adithya kakarla</h1>
-<h3 align="center">A Passionate frontend developer from India</h3>
+<h1 align="center">### Hello, Everyone!👋</h1>
+<h3 align="center">I'm Adithya kakarla, a developer focused on continuous improvement and skill enhancement in the tech industry.</h3>
 
 
 
@@ -15,6 +15,7 @@
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 
 
+<h3 align="left">Explore my repositories to see my work!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
