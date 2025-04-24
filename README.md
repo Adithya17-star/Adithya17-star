@@ -1,4 +1,4 @@
-<h1 align="center">### Hello, Everyone!👋</h1>
+<h1 align="center">### Hi there 👋 I'm Adithya kakarla</h1>
 <h3 align="center">I'm Adithya kakarla, a developer focused on continuous improvement and skill enhancement in the tech industry.</h3>
 
 
