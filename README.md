@@ -1,5 +1,6 @@
-<h1 align="center">### Hi there 👋 I'm Adithya kakarla</h1>
-<h3 align="center">I'm Adithya kakarla, a developer focused on continuous improvement and skill enhancement in the tech industry.</h3>
+<h1 align="center"># Hi there 👋 I'm Adithya kakarla</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | Python, SQL, Data Pipelines | Passionate about solving real-world problems with data
+</h3>
 
 
 
