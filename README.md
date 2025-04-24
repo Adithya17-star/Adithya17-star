@@ -18,7 +18,7 @@
 
 <h3 align="left">Explore my repositories to see my work!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Let’s connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adithya-kakarla-1902a6328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-kakarla-1902a6328/" height="30" width="40" /></a>
 </a></a>
