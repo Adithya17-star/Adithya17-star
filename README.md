@@ -18,34 +18,6 @@
 
 
 
-## 🌟 Featured Projects
-
-### 🧠 AI-Enabled Fraud Detection
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/fraud-detection)
-> **Tech:** Python, Scikit-Learn, Pandas  
-> Built a model to detect fraudulent transactions, achieving 90%+ validation accuracy.
-
----
-
-### 📉 Customer Churn Prediction
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername/churn-prediction)
-> **Tech:** Python, Random Forest, Data Analysis  
-> Predicted customer churn with 85% accuracy using classification techniques.
-
----
-
-### 🔐 Blockchain + AI for Secure Data Sharing
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername/blockchain-data-security)
-> **Tech:** Blockchain, Python, AI  
-> Engineered a prototype to secure and trace sensitive data using decentralized tech.
-
----
-
-### 💬 Chatbot for SEC Reports
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername/sec-chatbot)
-> **Tech:** Python, NLP, Flask  
-> Automated 10-K/10-Q report insights through a custom-built chatbot interface.
-
 ---
 
 ### 📊 Transaction Dashboard
