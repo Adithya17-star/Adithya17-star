@@ -18,12 +18,6 @@
 
 
 
----
-
-### 📊 Transaction Dashboard
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=flat-square&logo=github)](https://github.com/yourusername/sales-report-dashboard)
-> **Tech:** SQL, Google Data Studio  
-> Delivered 15 automated sales reports that informed product strategy.
 
 <h3 align="left">Explore my repositories to see my work!</h3>
 
