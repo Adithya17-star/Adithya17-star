@@ -1,5 +1,5 @@
 <h1 align="center"># Hi there 👋 I'm Adithya kakarla</h1>
-<h3 align="center">🚀 Aspiring Data Engineer | Python, SQL, Data Pipelines | Passionate about solving real-world problems with data
+<h3 align="center">🚀 Software Developer | Passionate about AI, Machine Learning, and Data Engineering | Building Innovative Solutions with Python, SQL & Cloud Technologies
 </h3>
 
 
