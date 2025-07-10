@@ -16,10 +16,7 @@
 
 <img src="./OSCI%20Contributor%20NexFellow%20Banner.png" alt="OSCI Contributor Banner" width="100%" />
 
-🎉 Officially selected as a Contributor for [Open Source Connect India](https://osconnect.org), powered by NexFellow.
 
-📆 Event Dates: 15th – 30th August 2025  
-🔗 Platform: [nexfellow.com](https://nexfellow.com)
 
 
 
