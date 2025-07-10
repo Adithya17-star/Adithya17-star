@@ -14,9 +14,15 @@
 
 ## 🏅 Open Source Contributor – Open Source Connect India
 
-![Open Source Contributor](./opensource-badge.png)  
-Selected as an official Contributor for Open Source Connect India 2025 – one of the largest collaborative open-source initiatives in the country.
+<img src="./OSCI Contributor NexFellow Banner.png" alt="Open Source Connect India Contributor Banner" width="100%" />
 
+<img src="./OSCI Contributor ID Card.png" alt="Open Source Connect India Contributor ID Card" width="60%" />
+
+🚀 Proud to be selected as an official **Contributor** for [Open Source Connect India](https://osconnect.org), powered by NexFellow.  
+📆 Event Dates: 15th – 30th August 2025  
+🔗 Platform: [NexFellow](https://nexfellow.com)
+
+---
 
 
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
