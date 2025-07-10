@@ -12,9 +12,10 @@
 - ⚡ Fun fact **I am funny**
 <div align="center">
 
-🏅 **Open Source Contributor**  
-Contributed to projects during GSSoC'25 and Hacktoberfest.  
-![Open Source Contributor](https://your-badge-link.com/badge.png) <!-- Replace this with your actual badge URL -->
+## 🏅 Open Source Contributor – Open Source Connect India
+
+![Open Source Contributor](./opensource-badge.png)  
+Selected as an official Contributor for Open Source Connect India 2025 – one of the largest collaborative open-source initiatives in the country.
 
 
 
