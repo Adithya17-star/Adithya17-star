@@ -20,9 +20,6 @@
 
 
 
-![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
-
-
 
 
 
