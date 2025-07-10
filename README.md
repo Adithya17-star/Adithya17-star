@@ -12,6 +12,11 @@
 - ⚡ Fun fact **I am funny**
 <div align="center">
 
+🏅 **Open Source Contributor**  
+Contributed to projects during GSSoC'25 and Hacktoberfest.  
+![Open Source Contributor](https://your-badge-link.com/badge.png) <!-- Replace this with your actual badge URL -->
+
+
 
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
 
