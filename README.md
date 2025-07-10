@@ -14,7 +14,7 @@
 
 ## 🏅 Open Source Contributor – Open Source Connect India
 
-<img src="./![OSCI Contributor NexFellow Banner](https://github.com/user-attachments/assets/c1383d96-5015-4f94-9117-1ba054d341a6)
+<img src="./!"C:\Users\adith\Documents\OSCI Contributor ID Card.png"
 " alt="Open Source Connect India Contributor Banner" width="100%" />
 
 <img src="./![OSCI Contributor ID Card](https://github.com/user-attachments/assets/2250b0d2-0b28-4c09-98f8-fcafc23c0838)
