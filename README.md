@@ -14,19 +14,15 @@
 
 ## 🏅 Open Source Contributor – Open Source Connect India
 
-## 🏅 Open Source Contributor – Open Source Connect India
+<img src="./OSCI%20Contributor%20NexFellow%20Banner.png" alt="OSCI Contributor Banner" width="100%" />
 
-<img src="./OSCI%20Contributor%20ID%20Card.png" alt="Open Source Contributor ID" width="60%" />
+<img src="./OSCI%20Contributor%20ID%20Card.png" alt="OSCI ID Card" width="60%" />
 
+🎉 Officially selected as a Contributor for [Open Source Connect India](https://osconnect.org), powered by NexFellow.
 
-<img src="./![OSCI Contributor ID Card](https://github.com/user-attachments/assets/2250b0d2-0b28-4c09-98f8-fcafc23c0838)
-" alt="Open Source Connect India Contributor ID Card" width="60%" />
-
-🚀 Proud to be selected as an official **Contributor** for [Open Source Connect India](https://osconnect.org), powered by NexFellow.  
 📆 Event Dates: 15th – 30th August 2025  
-🔗 Platform: [NexFellow](https://nexfellow.com)
+🔗 Platform: [nexfellow.com](https://nexfellow.com)
 
----
 
 
 ![Matrix SVG](https://raw.githubusercontent.com/dheeraj-2000/dheeraj-2000/master/matrix.svg)
