@@ -1,7 +1,11 @@
 <h1 align="center">Adithya Kakarla</h1>
 
 <p align="center">
-  Software Developer focused on AI, Machine Learning, and Data Engineering
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=420&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
+</p>
+
+<p align="center">
+  <i>Building practical, data-driven solutions</i>
 </p>
 
 ---
