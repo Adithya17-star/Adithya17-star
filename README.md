@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
