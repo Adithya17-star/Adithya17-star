@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Building scalable, data-driven systems for real-world impact</i>
+  <i>Building scalable, data-driven systems that solve real-world problems</i>
 </p>
 
 ---
