@@ -6,6 +6,10 @@
   <i>Transforming data into practical, intelligent solutions</i>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🧠 Who Am I
