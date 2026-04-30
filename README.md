@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there 👋 I'm Adithya kakarla</h1>
+<h1 align="center"># Hi 👋 I'm Adithya kakarla</h1>
 <h3 align="center">🚀 Software Developer | Passionate about AI, Machine Learning, and Data Engineering | Building Innovative Solutions with Python, SQL & Cloud Technologies
 </h3>
 
