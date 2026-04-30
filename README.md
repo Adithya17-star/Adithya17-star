@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%7C+Machine+Learning+Engineer;Data+Engineering+Enthusiast;Building+Scalable+Cloud+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,django,react,nodejs,docker,kubernetes,git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" style="margin-left:12px;" />
-</p>
-
 ---
 
 ## 🧠 Who Am I
@@ -41,12 +36,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,django,react,nodejs,docker,kubernetes,git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" style="margin-left:12px;" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" />
-</p>
-
 ---
 
 ## 📌 Featured Work
