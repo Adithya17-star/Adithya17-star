@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1500&color=00F7FF&center=true&vCenter=true&width=520&lines=Software+Developer;Focused+on+AI+%26+Machine+Learning;Designing+Scalable+Systems" />
-</p>
-
-<p align="center">
-  <i>Transforming data into practical, intelligent solutions</i>
-</p>
-
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1400&color=00F7FF&width=420&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
 </p>
+
+<i>Building scalable, data-driven systems for real-world impact</i>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
