@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1500&color=00F7FF&center=true&vCenter=true&width=520&lines=Software+Developer;Focused+on+AI+%26+Machine+Learning;Designing+Scalable+Systems" />
 </p>
 
 <p align="center">
-  <i>Building scalable, data-driven systems for real-world impact</i>
+  <i>Transforming data into practical, intelligent solutions</i>
 </p>
 
 ---
