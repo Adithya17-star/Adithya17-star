@@ -43,7 +43,8 @@
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,csharp,django,react,nodejs,docker,kubernetes,git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,django,react,nodejs,docker,kubernetes,git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" />
 </p>
 
 ---
