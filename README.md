@@ -44,6 +44,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,django,react,nodejs,docker,kubernetes,git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" />
 </p>
 
