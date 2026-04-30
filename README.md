@@ -1,11 +1,19 @@
 <h1 align="center">Adithya Kakarla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=420&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
+  <b>Software Developer</b> • AI & Machine Learning • Data Engineering
 </p>
 
 <p align="center">
-  <i>Building practical, data-driven solutions</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1400&color=00F7FF&center=true&vCenter=true&width=420&lines=Building+data-driven+applications;Focused+on+real-world+solutions;Exploring+scalable+systems" />
+</p>
+
+<p align="center">
+  <i>Designing intelligent systems with simplicity and impact</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adithya17-star&style=flat-square&color=blue" />
 </p>
 
 ---
