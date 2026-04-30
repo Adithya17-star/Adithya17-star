@@ -1,9 +1,9 @@
 <p align="center">
-  <b>Software Developer</b> • AI & Machine Learning • Data Engineering
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
 </p>
 
 <p align="center">
-  <i>Designing intelligent systems with simplicity and real-world impact</i>
+  <i>Building scalable, data-driven systems for real-world impact</i>
 </p>
 
 ---
