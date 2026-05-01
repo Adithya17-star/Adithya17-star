@@ -1,10 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#00F7FF,#007CF0,#7928CA); -webkit-background-clip: text; color: transparent;">
-    Software Developer
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer" />
+</p>
 
 <p align="center">
   <code>AI & Machine Learning</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Data Engineering</code>
