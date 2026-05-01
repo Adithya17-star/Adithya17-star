@@ -24,16 +24,16 @@
 ## 🚀 Projects
 
 ### 🔹 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection)
-- Built a machine learning system to detect fraudulent financial transactions  
-- Implemented data preprocessing, feature engineering & model evaluation  
+- Built a machine learning system to detect fraudulent transactions  
+- Applied data preprocessing, feature engineering & evaluation  
 - Integrated dashboards and authentication  
-- **Tech:** Python, ML, HTML  
+- **Tech:** Python, Machine Learning, HTML  
 
 ---
 
 ### 🔹 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot)
-- Developed an AI-powered platform for startup planning & execution  
-- Built scalable backend and real-time features  
+- Developed an AI-powered platform for startup planning  
+- Built scalable backend with real-time features  
 - **Tech:** TypeScript, AI  
 
 ---
@@ -47,7 +47,6 @@
 
 ## ⚙️ Tech Stack
 
-**Languages & Tools:**  
 Python • SQL • Django • React • Machine Learning • Cloud  
 
 ---
