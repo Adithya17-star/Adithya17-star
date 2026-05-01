@@ -1,15 +1,6 @@
-<!-- HEADER -->
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=00F7FF&width=500&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
-</p>
-
-<i>Building scalable, data-driven systems for real-world impact</i>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
 
+### Software Developer specializing in AI, Machine Learning, and Data Engineering
 ---
 
 ## 💡 About Me
