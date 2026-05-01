@@ -1,5 +1,7 @@
+<!-- HEADER -->
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1400&color=00F7FF&width=420&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=00F7FF&width=500&lines=Software+Developer;AI+%26+Machine+Learning;Data+Engineering" />
 </p>
 
 <i>Building scalable, data-driven systems for real-world impact</i>
@@ -10,98 +12,50 @@
 
 ---
 
-## 🧠 Who Am I
+## 💡 About Me
 
-- 🎓 Computer Science Graduate  
-- 🤖 AI | Machine Learning | Data Engineering Focus  
-- 📊 Passionate about solving real-world problems with data  
-- ☁️ Exploring scalable cloud architectures  
-
----
-
-## 🚀 What I Do
-
-- Build **machine learning models** for real-world problems  
-- Develop **backend systems & APIs** using Django & Node.js  
-- Work with **data pipelines & analytics** using Python & SQL  
-- Deploy applications using **cloud & container technologies**  
+- Computer Science Graduate  
+- Focused on AI, Machine Learning & Data Engineering  
+- Building real-world, data-driven applications  
+- Interested in scalable backend & cloud systems  
 
 ---
 
-## 🏆 Open Source
-
-🏅 Contributor — Open Source Connect India  
-
-<img src="./OSCI%20Contributor%20NexFellow%20Banner.png" width="100%" />
-
----
-
-## ⚙️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,django,react,nodejs,docker,kubernetes" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,gcp,azure,mysql,postgres,mongodb,tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" style="margin-left:6px;" />
-</p>
-
----
-
-## 📌 Featured Work
+## 🚀 Projects
 
 ### 🔹 AI-Based Project
-- Built using Python & Machine Learning  
-- Solves real-world problem  
-- Demonstrates model accuracy & evaluation  
+- Developed a machine learning model to solve real-world problems  
+- Applied data preprocessing, feature engineering & evaluation  
+- Tech: Python, Scikit-learn  
 
 ### 🔹 Full Stack Application
-- Developed with Django + React  
-- REST APIs with database integration  
-- Scalable backend design  
+- Built scalable REST APIs with Django  
+- Integrated frontend with React  
+- Designed optimized database architecture  
+- Tech: Django, React, PostgreSQL  
 
 ### 🔹 Data Engineering Pipeline
-- Data processing using Pandas & SQL  
-- Cloud integration (GCP/AWS)  
-- Automated workflows  
+- Created data pipelines for processing & analytics  
+- Automated workflows and handled large datasets  
+- Tech: Python, SQL, Cloud  
 
 ---
 
-## 📊 Performance & Activity
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adithya17-star&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adithya17-star&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya17-star&theme=tokyo-night&hide_border=true" />
-</p>
+Python • SQL • Django • React • Machine Learning • Cloud  
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/adithya-kakarla-1902a6328/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:adithya1768@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/adithya-kakarla-1902a6328/  
+- Email: adithya1768@gmail.com  
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake gif](https://github.com/Adithya17-star/Adithya17-star/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-<p align="center">
-  <b>“Code. Learn. Build. Repeat.”</b>
-</p>
