@@ -1,6 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
 
-### Software Developer specializing in AI, Machine Learning, and Data Engineering
+<h1 align="center">
+  Software Developer • AI & Machine Learning • Data Engineering
+</h1>
+
+<p align="center">
+  <i>Building intelligent, scalable systems for real-world applications</i>
+</p>
+
 ---
 
 ## 💡 About Me
