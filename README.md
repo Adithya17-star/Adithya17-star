@@ -1,11 +1,17 @@
 <img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <h1 align="center">
-  Software Developer • AI & Machine Learning • Data Engineering
+  <span style="background: linear-gradient(90deg,#00F7FF,#007CF0,#7928CA); -webkit-background-clip: text; color: transparent;">
+    Software Developer
+  </span>
 </h1>
 
 <p align="center">
-  <i>Building intelligent, scalable systems for real-world applications</i>
+  <code>AI & Machine Learning</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Data Engineering</code>
+</p>
+
+<p align="center">
+  <i>Designing intelligent systems that scale and solve real-world problems</i>
 </p>
 
 ---
