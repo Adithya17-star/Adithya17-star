@@ -1,3 +1,27 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Adithya+Kakarla;Software+Engineer;AI+%26+Machine+Learning;Building+Intelligent+Applications" />
+
+<br/>
+
+<a href="https://adithya17-star.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adithya-kakarla-1902a6328/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adithya1768@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Adithya17-star&style=for-the-badge&color=6366F1"/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
