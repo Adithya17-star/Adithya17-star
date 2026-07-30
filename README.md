@@ -1,93 +1,139 @@
-<img src="https://komarev.com/ghpvc/?username=Adithya17-star&label=Profile%20Views&color=0e75b6&style=flat" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Adithya+Kakarla;AI+%26+ML+Engineer;Full+Stack+Developer;Building+Real-World+AI+Products" alt="Typing SVG" />
 
-<p align="center">
-  <code>AI & Machine Learning</code> &nbsp;&nbsp;|&nbsp;&nbsp; <code>Data Engineering</code>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Adithya17-star&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adithya17-star)
 
-<p align="center">
-  <i>Designing intelligent systems that scale and solve real-world problems</i>
-</p>
+</div>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate  
-- 🤖 Focused on AI, Machine Learning & Data Engineering  
-- 📊 Building real-world, data-driven applications  
-- ☁️ Interested in scalable backend & cloud systems  
+```python
+class Adithya:
+    name       = "Adithya Kakarla"
+    role       = "AI & ML Engineer | Full Stack Developer"
+    location   = "Vijayawada, India"
+    education  = "Computer Science Graduate"
+    focus      = ["Artificial Intelligence", "Machine Learning", "Data Engineering"]
+    building   = "Intelligent systems that scale and solve real-world problems"
+    contact    = "adithya1768@gmail.com"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
-Real-time fraud detection system powered by Machine Learning for intelligent transaction analysis.
+<table>
+<tr>
+<td width="50%">
 
-**✨ Highlights**
-- Detects fraudulent transactions using Machine Learning models
-- Upload and analyze CSV datasets with automated risk scoring
-- Interactive dashboard with detailed insights and downloadable reports
+### 🔍 AI-Powered Fraud Detection
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection)
+[![Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square)](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
 
-**🛠️ Tech Stack:** Python • Machine Learning • HTML • CSS • JavaScript
+Real-time fraud detection using ML. Upload CSV data and get instant risk scoring, anomaly detection and downloadable reports.
+
+`Python` `Machine Learning` `JavaScript`
+
+</td>
+<td width="50%">
+
+### ⚡ Startup Co-Pilot
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Adithya17-star/startup-copilot)
+[![Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square)](https://adithya17-star.github.io/startup-copilot/)
+
+AI platform that transforms startup ideas into complete blueprints — pitch, market research, roadmap, tech stack and landing page.
+
+`TypeScript` `React` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Modern Tech Store
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Adithya17-star/modern-techstore)
+[![Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square)](https://adithya17-star.github.io/modern-techstore/)
+
+Premium dark-themed e-commerce store with live search, category filters, cart sidebar, wishlist and flash deals.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🔐 Blockchain AI Security
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Adithya17-star/Blockchain_AI)
+
+Secure data management combining Blockchain and AI for tamper-proof storage, anomaly detection and authentication.
+
+`Python` `Machine Learning` `SQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · [🌐 Live Demo](https://adithya17-star.github.io/startup-copilot/)
-AI-powered platform that helps entrepreneurs transform ideas into actionable startup plans.
+## 📊 GitHub Stats
 
-**✨ Highlights**
-- Generates business ideas, market research, and startup roadmaps
-- Creates pitch decks, tech stack recommendations, and financial planning
-- Produces landing page content using AI-driven workflows
+<div align="center">
 
-**🛠️ Tech Stack:** TypeScript • React • Vite • AI
+![Stats](https://github-readme-stats.vercel.app/api?username=Adithya17-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)
 
----
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya17-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1)
 
-### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · [🌐 Live Demo](https://adithya17-star.github.io/modern-techstore/)
-Modern e-commerce platform featuring a premium dark-themed shopping experience.
+![Streak](https://streak-stats.demolab.com?user=Adithya17-star&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
-**✨ Highlights**
-- Advanced product search and category filtering
-- Shopping cart, wishlist, and flash deals functionality
-- Fully responsive UI with smooth user experience
-
-**🛠️ Tech Stack:** HTML • CSS • JavaScript
-
----
-
-### 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)
-Secure data management system integrating Blockchain technology with AI-powered threat detection.
-
-**✨ Highlights**
-- Tamper-proof data storage using Blockchain
-- AI-based anomaly detection for enhanced security
-- Secure authentication and reliable data integrity
-
-**🛠️ Tech Stack:** Python • Machine Learning • SQL
-  
----
-
-## ⚙️ Tech Stack
-
-Python • SQL • Django • React • Machine Learning • Cloud  
+</div>
 
 ---
 
 ## 🌐 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/adithya-kakarla-1902a6328/  
-- 📧 Email: adithya1768@gmail.com  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-kakarla-1902a6328/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya1768@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithya17-star)
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake](https://github.com/Adithya17-star/Adithya17-star/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
+
+<div align="center">
+
+⭐ *If you like my projects, give them a star!*
+
+</div>
