@@ -25,21 +25,21 @@
 
 ## 🚀 Projects
 
-### 🔹 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [Live Demo →](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
+### 🔹 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
 - Built a machine learning system to detect fraudulent transactions in real time
 - Real CSV analysis with risk scoring, View Details and downloadable reports
 - **Tech:** Python, Machine Learning, HTML, CSS, JavaScript
 
 ---
 
-### 🔹 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · [Live Demo →](https://adithya17-star.github.io/startup-copilot/)
+### 🔹 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · [🌐 Live Demo](https://adithya17-star.github.io/startup-copilot/)
 - Developed an AI-powered platform for startup planning and blueprint generation
 - Generates pitch, market research, roadmap, tech stack, financials and landing page
 - **Tech:** TypeScript, React, Vite, AI
 
 ---
 
-### 🔹 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · [Live Demo →](https://adithya17-star.github.io/modern-techstore/)
+### 🔹 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · [🌐 Live Demo](https://adithya17-star.github.io/modern-techstore/)
 - Designed premium e-commerce website with dark theme and modern UI
 - Features search, category filter, cart sidebar, wishlist and flash deals
 - **Tech:** HTML, CSS, JavaScript 
