@@ -83,4 +83,6 @@ Secure blockchain-powered data management with AI anomaly detection.
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
