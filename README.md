@@ -25,25 +25,51 @@
 
 ## 🚀 Projects
 
-🔹 **[AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection)** · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
-- Built a machine learning system to detect fraudulent transactions in real time
-- Real CSV analysis with risk scoring, View Details and downloadable reports
-- **Tech:** Python, Machine Learning, HTML, CSS, JavaScript
+### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
+Real-time fraud detection system powered by Machine Learning for intelligent transaction analysis.
 
-🔹 **[Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot)** · [🌐 Live Demo](https://adithya17-star.github.io/startup-copilot/)
-- Developed an AI-powered platform for startup planning and blueprint generation
-- Generates pitch, market research, roadmap, tech stack, financials and landing page
-- **Tech:** TypeScript, React, Vite, AI
+**✨ Highlights**
+- Detects fraudulent transactions using Machine Learning models
+- Upload and analyze CSV datasets with automated risk scoring
+- Interactive dashboard with detailed insights and downloadable reports
 
-🔹 **[Modern Tech Store](https://github.com/Adithya17-star/modern-techstore)** · [🌐 Live Demo](https://adithya17-star.github.io/modern-techstore/)
-- Designed premium e-commerce website with dark theme and modern UI
-- Features search, category filter, cart sidebar, wishlist and flash deals
-- **Tech:** HTML, CSS, JavaScript
+**🛠️ Tech Stack:** Python • Machine Learning • HTML • CSS • JavaScript
 
-🔹 **[Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)**
-- Secure data management system combining Blockchain and AI
-- AI anomaly detection with tamper-proof storage and authentication
-- **Tech:** Python, Machine Learning, SQL
+---
+
+### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · [🌐 Live Demo](https://adithya17-star.github.io/startup-copilot/)
+AI-powered platform that helps entrepreneurs transform ideas into actionable startup plans.
+
+**✨ Highlights**
+- Generates business ideas, market research, and startup roadmaps
+- Creates pitch decks, tech stack recommendations, and financial planning
+- Produces landing page content using AI-driven workflows
+
+**🛠️ Tech Stack:** TypeScript • React • Vite • AI
+
+---
+
+### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · [🌐 Live Demo](https://adithya17-star.github.io/modern-techstore/)
+Modern e-commerce platform featuring a premium dark-themed shopping experience.
+
+**✨ Highlights**
+- Advanced product search and category filtering
+- Shopping cart, wishlist, and flash deals functionality
+- Fully responsive UI with smooth user experience
+
+**🛠️ Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)
+Secure data management system integrating Blockchain technology with AI-powered threat detection.
+
+**✨ Highlights**
+- Tamper-proof data storage using Blockchain
+- AI-based anomaly detection for enhanced security
+- Secure authentication and reliable data integrity
+
+**🛠️ Tech Stack:** Python • Machine Learning • SQL
   
 ---
 
