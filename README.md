@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · 🌐 [Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
+### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · 🌐 [](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
 
 Real-time fraud detection system powered by Machine Learning for intelligent transaction analysis.
 
@@ -35,7 +35,7 @@ Real-time fraud detection system powered by Machine Learning for intelligent tra
 
 ---
 
-### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · 🌐 [Live Demo](https://adithya17-star.github.io/startup-copilot/)
+### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · 🌐 [](https://adithya17-star.github.io/startup-copilot/)
 
 AI-powered platform that helps entrepreneurs transform ideas into actionable startup plans.
 
@@ -49,7 +49,7 @@ AI-powered platform that helps entrepreneurs transform ideas into actionable sta
 
 ---
 
-### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · 🌐 [Live Demo](https://adithya17-star.github.io/modern-techstore/)
+### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · 🌐 [](https://adithya17-star.github.io/modern-techstore/)
 
 Premium dark-themed e-commerce website with a modern shopping experience.
 
