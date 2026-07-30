@@ -34,7 +34,7 @@ Real-time fraud detection system powered by Machine Learning for intelligent tra
 
 ---
 
-### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) 
+### 🧠 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) 
 
 AI-powered platform that helps entrepreneurs transform ideas into actionable startup plans.
 
