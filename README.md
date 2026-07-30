@@ -1,79 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Adithya+Kakarla;Software+Engineer;AI+%26+Machine+Learning;Building+Intelligent+Applications" />
+# Software Developer
 
-<br/>
+`AI & Machine Learning` | `Data Engineering`
 
-<a href="https://adithya17-star.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge"/>
-</a>
+*Designing intelligent systems that scale and solve real-world problems.*
 
-<a href="https://www.linkedin.com/in/adithya-kakarla-1902a6328/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adithya1768@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Adithya17-star&style=for-the-badge&color=6366F1"/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://adithya17-star.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-kakarla-1902a6328/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya1768@gmail.com)
 
 </div>
 
-## 🚀 Featured Projects
+## 💡 About Me
 
-### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · [🌐 Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
+- 🎓 Computer Science Graduate
+- 🤖 Focused on AI, Machine Learning & Data Engineering
+- 📊 Building intelligent, data-driven applications
+- ☁️ Interested in scalable backend & cloud systems
 
-Real-time fraud detection system using Machine Learning with automated risk scoring and interactive analytics.
+## 🚀 Projects
 
-**Highlights**
-- 🚨 Fraud Detection
-- 📊 CSV Analysis
-- 📈 Risk Scoring
-- 📄 Downloadable Reports
+### 🤖 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) · 🌐 [Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
 
-**Tech:** Python • Machine Learning • HTML • CSS • JavaScript
+Real-time fraud detection system powered by Machine Learning for intelligent transaction analysis.
 
----
+**✨ Highlights**
 
-### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · [🌐 Live Demo](https://adithya17-star.github.io/startup-copilot/)
+- Detects fraudulent transactions using Machine Learning
+- Upload and analyze CSV datasets with automated risk scoring
+- Interactive dashboard with detailed insights and downloadable reports
 
-AI-powered platform that transforms startup ideas into complete business blueprints.
-
-**Highlights**
-- 💡 Startup Planning
-- 📊 Market Research
-- 📝 Pitch Generation
-- 💰 Financial Planning
-
-**Tech:** TypeScript • React • Vite • AI
+**🛠 Tech Stack:** Python • Machine Learning • HTML • CSS • JavaScript
 
 ---
 
-### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · [🌐 Live Demo](https://adithya17-star.github.io/modern-techstore/)
+### 🚀 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) · 🌐 [Live Demo](https://adithya17-star.github.io/startup-copilot/)
+
+AI-powered platform that helps entrepreneurs transform ideas into actionable startup plans.
+
+**✨ Highlights**
+
+- Generates business ideas, market research and startup roadmaps
+- Creates pitch decks, financial planning and tech stack recommendations
+- Produces landing page content using AI workflows
+
+**🛠 Tech Stack:** TypeScript • React • Vite • AI
+
+---
+
+### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) · 🌐 [Live Demo](https://adithya17-star.github.io/modern-techstore/)
 
 Premium dark-themed e-commerce website with a modern shopping experience.
 
-**Highlights**
-- 🔍 Product Search
-- ❤️ Wishlist
-- 🛒 Shopping Cart
-- ⚡ Flash Deals
+**✨ Highlights**
 
-**Tech:** HTML • CSS • JavaScript
+- Product search and category filtering
+- Wishlist, shopping cart and flash deals
+- Fully responsive UI
+
+**🛠 Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ### 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)
 
-Blockchain-powered secure data management with AI anomaly detection.
+Secure blockchain-powered data management with AI anomaly detection.
 
-**Highlights**
-- 🔒 Tamper-Proof Storage
-- 🤖 AI Detection
-- 🔑 Authentication
-- 📊 Data Integrity
+**✨ Highlights**
 
-**Tech:** Python • Machine Learning • SQL
+- Tamper-proof blockchain storage
+- AI-powered anomaly detection
+- Secure authentication and data integrity
+
+**🛠 Tech Stack:** Python • Machine Learning • SQL
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adithya17-star&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya17-star&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adithya17-star&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🌐 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/adithya-kakarla-1902a6328/
+- 🌐 Portfolio: https://adithya17-star.github.io/Portfolio/
+- 📧 Email: adithya1768@gmail.com
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Adithya17-star/Adithya17-star/output/github-contribution-grid-snake-dark.svg)
