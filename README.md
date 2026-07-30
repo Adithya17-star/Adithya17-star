@@ -25,13 +25,27 @@
 
 ## 🚀 Projects
 
-| Project | Demo | Tech |
-|---------|------|------|
-| 🔍 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) | [🌐 Live](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/) | Python • ML • JavaScript |
-| ⚡ [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) | [🌐 Live](https://adithya17-star.github.io/startup-copilot/) | TypeScript • React • Vite |
-| 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) | [🌐 Live](https://adithya17-star.github.io/modern-techstore/) | HTML • CSS • JavaScript |
-| 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI) | — | Python • ML • SQL |
+#### 🔍 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) — [Live Demo](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
+Real-time fraud detection system that analyzes CSV transaction data using ML models with risk scoring and downloadable reports.
+`Python` `Machine Learning` `JavaScript` `HTML` `CSS`
 
+---
+
+#### ⚡ [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) — [Live Demo](https://adithya17-star.github.io/startup-copilot/)
+AI-powered platform that transforms any startup idea into a complete business blueprint — pitch, market, roadmap, tech stack and landing page.
+`TypeScript` `React` `Vite` `AI`
+
+---
+
+#### 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) — [Live Demo](https://adithya17-star.github.io/modern-techstore/)
+Premium dark-themed e-commerce store with live search, category filters, cart sidebar, wishlist and flash deals countdown.
+`HTML` `CSS` `JavaScript`
+
+---
+
+#### 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)
+Secure data management system combining Blockchain principles and AI for tamper-proof storage, anomaly detection and authentication.
+`Python` `Machine Learning` `SQL`
 ---
 
 ## ⚙️ Tech Stack
