@@ -74,11 +74,6 @@ Secure blockchain-powered data management with AI anomaly detection.
 
 **🛠 Tech Stack:** Python • Machine Learning • SQL
 
-## 🌐 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/adithya-kakarla-1902a6328/
-- 🌐 Portfolio: https://adithya17-star.github.io/Portfolio/
-- 📧 Email: adithya1768@gmail.com
 
 ## 🐍 Contribution Snake
 
