@@ -75,17 +75,6 @@ Secure blockchain-powered data management with AI anomaly detection.
 
 **🛠 Tech Stack:** Python • Machine Learning • SQL
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adithya17-star&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya17-star&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adithya17-star&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🌐 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/adithya-kakarla-1902a6328/
