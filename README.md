@@ -25,25 +25,12 @@
 
 ## 🚀 Projects
 
-### 🔹 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6366F1?style=flat-square)](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/)
-- Built a machine learning system to detect fraudulent transactions in real time
-- Real CSV analysis with risk scoring, View Details and downloadable reports
-- **Tech:** Python, Machine Learning, HTML, CSS, JavaScript
-
-### 🔹 [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6366F1?style=flat-square)](https://adithya17-star.github.io/startup-copilot/)
-- Developed an AI-powered platform for startup planning and blueprint generation
-- Generates pitch, market research, roadmap, tech stack, financials and landing page
-- **Tech:** TypeScript, React, Vite, AI
-
-### 🔹 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) &nbsp; [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6366F1?style=flat-square)](https://adithya17-star.github.io/modern-techstore/)
-- Designed premium e-commerce website with dark theme and modern UI
-- Features search, category filter, cart sidebar, wishlist and flash deals
-- **Tech:** HTML, CSS, JavaScript
-
-### 🔹 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI)
-- Secure data management system combining Blockchain and AI
-- AI anomaly detection with tamper-proof storage and authentication
-- **Tech:** Python, Machine Learning, SQL
+| Project | Demo | Tech |
+|---------|------|------|
+| 🔍 [AI-Powered Fraud Detection](https://github.com/Adithya17-star/AI-Powered-Fraud-Detection) | [🌐 Live](https://adithya17-star.github.io/AI-Powered-Fraud-Detection/) | Python • ML • JavaScript |
+| ⚡ [Startup Co-Pilot](https://github.com/Adithya17-star/startup-copilot) | [🌐 Live](https://adithya17-star.github.io/startup-copilot/) | TypeScript • React • Vite |
+| 🛒 [Modern Tech Store](https://github.com/Adithya17-star/modern-techstore) | [🌐 Live](https://adithya17-star.github.io/modern-techstore/) | HTML • CSS • JavaScript |
+| 🔐 [Blockchain AI Security](https://github.com/Adithya17-star/Blockchain_AI) | — | Python • ML • SQL |
 
 ---
 
